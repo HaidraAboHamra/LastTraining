@@ -30,6 +30,6 @@ public class Student
         else if (TotalScore >= 60 && TotalScore < 80)
             Grade = "Very Good";
         else
-            Grade = "Excellent";
+            Grade = "Excellent!";
     }
 }
